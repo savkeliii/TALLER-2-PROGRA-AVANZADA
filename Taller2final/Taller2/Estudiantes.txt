@@ -1,0 +1,2 @@
+11.111.111-1,juan.perez@alumnos.ucn.cl,3,abc
+18.593.099-8,perdo.gonzales@alumnos.ucn.cl,2,asfa
